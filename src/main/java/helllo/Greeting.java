@@ -1,4 +1,4 @@
-package main.java.helllo;
+package helllo;
 
 /**
  * Created by yuchen on 1/19/2017.

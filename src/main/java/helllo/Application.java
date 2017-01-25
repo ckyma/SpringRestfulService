@@ -1,4 +1,4 @@
-package main.java.helllo;
+package helllo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
